@@ -1,0 +1,18 @@
+h1{
+    width: 100px;
+    height: 50px;
+    color: blue;
+    font-size: 2em;
+    background-position: start;
+    background-color: aquamarine;
+    border: 5px;
+    padding: 100px;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: aqua;
+    outline: auto;
+    outline-style: solid;
+    outline-width: 10px;
+    outline-color: rgb(52, 146, 75);
+}
